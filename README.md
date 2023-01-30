@@ -1,4 +1,4 @@
 # Olá, mundo!
  primeiro repositorio
 
- primeiro repositorio criado por um programador bananao!
+ primeiro repositório criado por um programador bananao!
